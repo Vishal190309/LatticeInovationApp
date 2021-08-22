@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Lattice Inovation App</string>
+    <string name="mobile_number">Mobile Number*</string>
+    <string name="full_name">Full Name*</string>
+    <string name="date">Date*</string>
+    <string name="address_line_1">Address Line 1*</string>
+    <string name="address_line_2">Address Line 2</string>
+    <string name="pincode">Pincode*</string>
+    <string name="district">Distrit</string>
+    <string name="state">State</string>
+    <string name="date_text">%1$d/%2$d/%3$d</string>
+    <string name="registration_form">Registration form</string>
+    <string name="male">Male</string>
+    <string name="age">Age</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="register">Register</string>
+    <string name="check">Check</string>
+    <string name="api_key">b25a0e13cf134625b63203455212108</string>
+    <string name="calendar">calendar</string>
+    <string name="show_results">Show Results</string>
+    <string name="city_name">City Name</string>
+    <string name="weather_url">https://api.weatherapi.com/v1/current.json?key=%1$d&amp;q=%2$s&amp;aqi=no</string>
+    <string name="temperature_in_fahrenheit">Temperature in Fahrenheit :</string>
+    <string name="temperature_in_centigrade">Temperature in Centigrade :</string>
+    <string name="latitude">Latitude :</string>
+    <string name="longitude">Longitude :</string>
+    <string-array name="planets_array">
+        <item>Male</item>
+        <item>Female</item>
+
+    </string-array>
+</resources>
